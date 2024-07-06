@@ -1,7 +1,7 @@
 # Map of New-York
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-<img src="./ShipRace Spain to Puerto Rico, 1770 720p.gif" img alt = "New York Map"/>
+<img src="./NewYork.jpg" img alt = "New York Map"/>
 
 ## How It's Made:
 
